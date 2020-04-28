@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data id="1.2">
+<High_branch id="2">
+<Version id="1.0">
+<Comment>You have initialized SFRC.</Comment>
+<parent>null</parent>
+<branch>1</branch>
+</Version>
+</High_branch>
+</Data>
